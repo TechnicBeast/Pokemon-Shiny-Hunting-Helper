@@ -1,4 +1,4 @@
-*The "USUM Shiny Hunting Helper.exe" is an already exported project.
+*The "USUM Shiny Hunting Helper.exe", found in the "USUM Shiny Hunting Helper.zip" file is an already exported project.
 	- Keep all of the files together, as all of them are required to run the Shiny Hunting Helper.
 
 	This is a simple Shiny Hunting Helper. It allows you to keep track of encounters and the currently hunted Pokemon, and the last Pokemon caught.
